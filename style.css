@@ -41,10 +41,6 @@ p {
     font-size: 0.9rem;
 }
 
-img {
-    background-size: auto;
-}
-
 .add-to-cart {
     height: 3rem;
     display: flex;
